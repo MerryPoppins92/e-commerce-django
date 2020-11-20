@@ -1,0 +1,114 @@
+[
+{
+    "model": "products.product",
+    "pk": 1,
+    "fields": {
+        "title": "T-shirt",
+        "slug": "abc",
+        "description": "This is an awesome shirt!",
+        "price": "39.99",
+        "image": "products/images.jpeg",
+        "featured": false,
+        "active": true,
+        "timestamp": "2020-10-08T15:31:33.698Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 2,
+    "fields": {
+        "title": "Hat",
+        "slug": "hat",
+        "description": "This is an awesome Hat!",
+        "price": "39.99",
+        "image": "products/download.jpeg",
+        "featured": false,
+        "active": true,
+        "timestamp": "2020-10-08T15:31:33.698Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 3,
+    "fields": {
+        "title": "computer",
+        "slug": "computer",
+        "description": "yeahh",
+        "price": "1139.99",
+        "image": "",
+        "featured": true,
+        "active": true,
+        "timestamp": "2020-10-08T15:31:33.698Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 4,
+    "fields": {
+        "title": "Hat",
+        "slug": "hat-dstk",
+        "description": "Another super Hat",
+        "price": "39.99",
+        "image": "",
+        "featured": false,
+        "active": true,
+        "timestamp": "2020-10-08T15:31:33.698Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 5,
+    "fields": {
+        "title": "Lorem ipsum",
+        "slug": "Lorem-ipsum",
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut,\r\nimperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. \r\n\r\nAenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipis",
+        "price": "39.99",
+        "image": "",
+        "featured": false,
+        "active": true,
+        "timestamp": "2020-10-08T15:31:33.698Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 6,
+    "fields": {
+        "title": "asd",
+        "slug": "asd",
+        "description": "asdasdasdasdadas",
+        "price": "39.99",
+        "image": "",
+        "featured": false,
+        "active": true,
+        "timestamp": "2020-10-08T15:43:46.505Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 7,
+    "fields": {
+        "title": "test 2.0",
+        "slug": "test-20",
+        "description": "trst",
+        "price": "39.99",
+        "image": "",
+        "featured": false,
+        "active": true,
+        "timestamp": "2020-10-08T15:43:58.264Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 8,
+    "fields": {
+        "title": "t-shirt",
+        "slug": "t-shirt",
+        "description": "this is a little t-shirt",
+        "price": "25.00",
+        "image": "",
+        "featured": false,
+        "active": true,
+        "timestamp": "2020-10-09T09:59:43.176Z"
+    }
+}
+]
